@@ -60,7 +60,7 @@ Buka web e-cuti pada browser dengan url
 http://localhost/cuti
 ```
 
-Login User dan password ---> admin
+Login Username dan password ---> admin
 ## License
 
 MIT
