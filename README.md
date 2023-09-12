@@ -8,14 +8,11 @@
 
 ## Features Aplikasi e-Cuti
 
-- Permohonan
-- Cek Sisa Cuti
-- Persetujuan Cuti
+- Permohonan Cuti
 - Alasan Cuti
+- Persetujuan Cuti
+- Cek sisa Cuti
 - Download Surat Persetujuan Cuti
-
-
-
 
 ## Tech
 
