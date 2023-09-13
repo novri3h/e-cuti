@@ -2,7 +2,7 @@
 
 ![e-Cuti](https://github.com/novri3h/e-cuti/assets/25641359/21ba605e-9049-4f03-97d5-5be7e543e8d5)
 
-<div align="justify">Aplikasi permohonan cuti karyawan adalah sebuah perangkat lunak atau sistem yang digunakan oleh perusahaan atau organisasi untuk memudahkan karyawan mengajukan permohonan cuti secara elektronik. Aplikasi ini dapat membantu meningkatkan efisiensi proses pengajuan cuti, meminimalkan kesalahan administratif, dan memberikan visibilitas yang lebih baik terhadap jadwal cuti karyawan.</div>
+<div align="justify">Aplikasi manajemen pengajuan cuti karyawan adalah perangkat lunak yang membantu perusahaan atau organisasi dalam mengelola dan memproses permintaan cuti dari karyawan mereka. Aplikasi semacam ini memudahkan pengelolaan cuti, pemantauan jatah cuti, pengaturan kalender cuti, dan komunikasi antara karyawan dan manajemen terkait cuti.</div>
 <br>
 
 [![Sponsor](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white)](https://trakteer.id/nadhif_studio)
