@@ -48,22 +48,23 @@ Aplikasi ini dibangun dengan menggunakan:
 
 ## Installation
 
-Pindahkan Folder hasil extract (cuti) kedalam folder:
+<div align="justify">Pindahkan Folder hasil extract (cuti) kedalam folder:</div>
 
 ```sh
 c:\Xampp\htdocs\
 ```
 
-Start apache dan Mysql pada XAMPP
-Akses pada browser dengan url
+<div align="justify">Start apache dan Mysql pada XAMPP, Akses pada browser dengan url</div>
+
 ```sh
 http://localhost/phpmyadmin
 ```
 Login username : root 
 
-Buat database baru dengan nama db_cuti, kemudian klik Import database.
+<div align="justify">Buat database baru dengan nama db_cuti, kemudian klik Import database.</div>
+<br>
 
-Buka web e-cuti pada browser dengan url
+Buka web e-cuti pada browser dengan url:
 ```sh
 http://localhost/cuti
 ```
@@ -104,4 +105,4 @@ MIT
 > 𝕋𝕣𝕚 𝕙𝕒𝕣𝕥𝕠𝕟𝕠
 
 
-[![My Blogs](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://bit.ly/M-UMKM) [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/semut.nunggings/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nadhif.studio/) [![Tik Tok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@nadhif.studio) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/@ThE_dUduLs/)
+[![My Blogs](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://bit.ly/M-UMKM) [![Tik Tok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@nadhif.studio) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nadhif.studio/) [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/semut.nunggings/) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/@ThE_dUduLs/)
