@@ -5,7 +5,7 @@
 <div align="justify">Aplikasi manajemen pengajuan cuti karyawan adalah perangkat lunak yang membantu perusahaan atau organisasi dalam mengelola dan memproses permintaan cuti dari karyawan mereka. Aplikasi semacam ini memudahkan pengelolaan cuti, pemantauan jatah cuti, pengaturan kalender cuti, dan komunikasi antara karyawan dan manajemen terkait cuti.</div>
 <br>
 
-[![Sponsor](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white)](https://trakteer.id/nadhif_studio)
+[![Sponsor](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white)](https://trakteer.id/nadhif.studio)
 
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/novri3h/e-cuti/graphs/commit-activity)
 
